@@ -34,7 +34,6 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas e determina
 - **Loja 2**: Forte em nichos específicos, mas com baixa abrangência geográfica  
 - **Loja 4**: Apesar da maior cobertura nacional, apresenta o menor desempenho geral
 
-> 🔎 Para detalhes completos, consulte o [Relatório Final](./relatorio_final.md)
 
 ---
 
@@ -43,14 +42,3 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas e determina
 A **Loja 4** foi indicada como a menos promissora do portfólio, sendo a recomendação principal sua **venda estratégica**.
 
 ---
-
-## 📬 Contato
-
-Para dúvidas ou sugestões, entre em contato:  
-**Nome:** [Gabrielly Gomes]
-**Email:** [gabrielly.gomes@ufpi.edu.br]  
-**LinkedIn:** [linkedin.com/in/gabrielly-gomes-ml](https://linkedin.com/in/gabrielly-gomes-ml)
-
----
-
-📌 *Projeto desenvolvido com fins analíticos e educacionais.*
