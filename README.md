@@ -1,10 +1,10 @@
-# 🛍️ Análise de Desempenho de Lojas - Alura Challenge
+# Análise de Desempenho de Lojas - Alura Challenge
 
 Este projeto tem como objetivo analisar o desempenho de quatro lojas e determinar, com base em dados, **qual delas deve ser vendida**. A análise considera diversos critérios como faturamento, avaliações de clientes, mix de produtos, frete médio e abrangência geográfica.
 
 ---
 
-## 📌 Objetivos
+## Objetivos
 
 - Avaliar o desempenho financeiro de cada loja  
 - Analisar o comportamento de vendas por categoria  
@@ -16,7 +16,7 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas e determina
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - `Python`  
 - `Pandas` para análise de dados  
@@ -27,7 +27,7 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas e determina
 ---
 
 
-## 📈 Resultados Principais
+## Resultados Principais
 
 - **Loja 1**: Maior faturamento total  
 - **Loja 3**: Melhor avaliação média dos clientes  
@@ -37,7 +37,7 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas e determina
 
 ---
 
-## 📤 Conclusão
+## Conclusão
 
 A **Loja 4** foi indicada como a menos promissora do portfólio, sendo a recomendação principal sua **venda estratégica**.
 
